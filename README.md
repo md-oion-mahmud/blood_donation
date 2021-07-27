@@ -1,8 +1,8 @@
 Video : https://www.youtube.com/watch?v=OVIu1kEH0wU&t=1s
 
 ## Laravel Blood Donation
-Laravel Framework 7
-PHP 7
+- Laravel Framework 7
+- PHP 7
 ## Installation
 
 git clone https://github.com/md-oion-mahmud/blood_donation
