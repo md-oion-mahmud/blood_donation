@@ -6,12 +6,12 @@ PHP 7
 ## Installation
 
 git clone https://github.com/md-oion-mahmud/blood_donation
-*composer install
-*composer update
-*php artisan key:generate
-*Prepare your .env file there with database connection and other settings.
-*php artisan migrate
-*php artisan serve to start the app on http://localhost:8000/
+-composer install
+-composer update
+-php artisan key:generate
+-Prepare your .env file there with database connection and other settings.
+-php artisan migrate
+-php artisan serve to start the app on http://localhost:8000/
 
 
 ## License
