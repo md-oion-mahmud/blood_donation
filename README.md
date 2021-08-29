@@ -5,7 +5,7 @@ Video : https://www.youtube.com/watch?v=OVIu1kEH0wU&t=1s
 - PHP 7
 ## Installation
 
-git clone https://github.com/md-oion-mahmud/blood_donation
+git clone https://github.com/sohelmahmudraihan/blood_donation
 - composer install
 - composer update
 - php artisan key:generate
